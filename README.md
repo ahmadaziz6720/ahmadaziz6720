@@ -8,7 +8,6 @@
 - Tinggal di Jambi
 - Asal Sekolah SMAN Titian Teras Jambi
 - Hobi belajar hal baru yang unik dan menarik
-- Cita-cita ingin menciptakan sesuatu inovasi yang bermanfaaat bagi umat manusia
 
 
 ### Connect with me:
@@ -21,10 +20,8 @@
 <br />
 
 ### Deskripsi
-  Halo semuanya nama saya Ahmad Aziz. Sejak kecil saya sudah tertarik dengan sains dan teknologi khususnya elektronka. waktu kecil saya sering membongkar barang-barang elektronika di rumah saya untuk memenuhi rasa penasaran saya sehingga saya sering dimarahi ibu saya. Izinkan saya bercerita sedikit tentang bagamana saya bisa mengenal yang namanya programming. saya mengenal programming pertama kali yaitu kelas 2 SMP. jadi pada waktu itu jamannnya COC sedang booming. karena memiliki sifat yang ingin semuanya instan, saya mencoba untuk mencuri akun orang lain. saya googling untuk mencari tahu dan itulah awal saya tau istilah phising. Awalnya saya hanya mengikuti tutorial bagaimana cara membuat web phising yang pada saat itu hanya menggunakan HTML dan sedikit polesan CSS. saya hanya download source code, setting email, dan upload ke hosting gratisan. Saya berhasil mendapat banyak akun COC hasil phising waktu itu wkwk🤣 termasuk akun teman-teman saya di sekolah (sungguh masa-masa yang sangat indah). Karena merasa membuat web phising itu seru, saya mulai belajar sendiri mengotak-atik template web phising saya dan mengubahnya sesuai keinginan saya. ternyata seru juga membuat website. Nah dari situlah saya mulai belajar sendiri membuat website dari awal secara otodidak. <br /><br />
-  Saya terus belajar coding tanpa tujuan apa-apa, hanya karena suka dan senang dan nolep. saya belajar HTML, CSS, PHP dan sedikit javascript. Ketika kelas 11, kemendikbud mengadakan lomba coding edusiber untuk siswa SMA/SMK. saya iseng ikut mengirimkan proposal aplikasi, dan tanpa disangka-sangka proposal saya lolos dan mengikuti seleksi tingkat provinsi. dan karena saya hoki saya berhasil menang di tingkat provinsi dan lolos ke tingkat nasional. pada saat itu saya membuat aplikasi yang sangat sederhana yaitu web laporan ciber crime untuk melaporkan kejahatan cyber crime dengan PHP mysql. di tingkat nasional tentu saja aplikasi sederhana saya tidak berarti apa-apa dibanding karya peserta lain yang sudah sangat hebat. Saya belajar banyak disana. <br /><br />
-  Itulah cerita singkat saya mengenal programming. sejak saat itu hingga sekarang saya ingin menjadi programmer hebat yang suatu saat bisa membangun startup besar yang mempunyai inovasi yang bermanfaat bagi umat manusia.
-Terima kasih! <br /><br />
+Halo!
+<br /><br />
 
 ### 📕 Blog saya
 
