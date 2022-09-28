@@ -42,4 +42,4 @@ www.ardutekno.com
 [instagram]: https://instagram.com/ahmadaziz6720
 [linkedin]: https://linkedin.com/in/ahmad-aziz-598543166/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaziz6720)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaziz6720)](https://github.com/ahmadaziz6720?tab=repositories)
