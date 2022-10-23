@@ -39,7 +39,7 @@ www.ardutekno.com
 
 [website]: https://ardutekno.com
 [twitter]: https://twitter.com/ahmadaziz6720
-[instagram]: https://instagram.com/ahmadaziz6720
+[instagram]: https://instagram.com/ahmadaziz_hacked
 [linkedin]: https://linkedin.com/in/ahmad-aziz-598543166/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaziz6720)](https://github.com/ahmadaziz6720?tab=repositories)
